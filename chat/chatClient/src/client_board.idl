@@ -1,0 +1,6 @@
+module client_board {
+
+  interface ClientBoard {
+    string recieveMsg(in string msg);
+  };
+};

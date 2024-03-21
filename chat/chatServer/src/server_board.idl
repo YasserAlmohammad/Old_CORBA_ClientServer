@@ -1,0 +1,10 @@
+module server_board {
+
+  interface ServerBoard {
+    string connect(in string nickName);
+
+    string disconnect(in string nickName);
+
+    string recieveMsg(in string nickName,in string msg);
+  };
+};
