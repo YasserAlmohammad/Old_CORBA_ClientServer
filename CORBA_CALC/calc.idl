@@ -1,0 +1,6 @@
+module calc {
+
+  interface Calc {
+    float calc(in long op,in float param1, in float param2);
+  };
+};

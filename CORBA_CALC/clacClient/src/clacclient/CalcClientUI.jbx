@@ -1,0 +1,14 @@
+[PropertyInfo]
+args,String[],false,false, , ,false,<default>
+borderLayout1,java.awt.BorderLayout,false,false, , ,false,<default>
+calcBtn,javax.swing.JButton,false,false, , ,false,<default>
+calcImpl,calc.Calc,false,false, , ,false,<default>
+JComboBox1,javax.swing.JComboBox,false,false, , ,false,<default>
+JPanel1,javax.swing.JPanel,false,false, , ,false,<default>
+param1,javax.swing.JTextField,false,false, , ,false,<default>
+param2,javax.swing.JTextField,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

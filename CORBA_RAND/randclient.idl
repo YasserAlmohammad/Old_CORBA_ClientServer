@@ -1,0 +1,8 @@
+module client_side {
+
+  interface ClientSide {
+    boolean recieveFile(in string line,in long state);
+    boolean recieveNum(in long num);
+    boolean recieveMsg(in string msg);
+  };
+};
