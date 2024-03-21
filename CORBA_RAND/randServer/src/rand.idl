@@ -1,0 +1,6 @@
+module server_side {
+
+  interface ServerSide {
+    long getRand(in long param1);
+  };
+};
